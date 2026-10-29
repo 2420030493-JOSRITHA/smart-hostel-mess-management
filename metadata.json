@@ -1,0 +1,6 @@
+{
+  "name": "Cloud-Native Smart Hostel Mess Management",
+  "description": "Smart meal planning, real-time booking, menu management, and feedback system for hostel students, administrators, and mess staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
